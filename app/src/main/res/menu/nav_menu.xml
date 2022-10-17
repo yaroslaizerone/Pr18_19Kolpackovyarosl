@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <item android:title="Основная информация">
+        <menu>
+            <item
+                android:id="@+id/nav_spr"
+                android:icon="@drawable/collect"
+                android:title="Переменные"/>
+            <item
+                android:id="@+id/chicli"
+                android:icon="@drawable/cikl"
+                android:title="Циклы"/>
+            <item
+                android:id="@+id/tipis"
+                android:icon="@drawable/tipi"
+                android:title="Типы переменных"/>
+            <item
+                android:id="@+id/korteji"
+                android:icon="@drawable/kort"
+                android:title="Кортежи"/>
+            <item
+                android:id="@+id/mass"
+                android:icon="@drawable/mas"
+                android:title="Списки"/>
+            <item
+                android:id="@+id/plagins"
+                android:icon="@drawable/plagiaris"
+                android:title="Плагины"/>
+        </menu>
+    </item>
+    <item android:title="Дополнитеольная информация">
+        <menu>
+            <item
+                android:id="@+id/literature"
+                android:icon="@drawable/laptop"
+                android:title="Литература"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SprawochnikPython/app/src/main/res/drawable/cikl.xml" value="0.146" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/drawable/kort.xml" value="0.1" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/drawable/plagins.xml" value="0.1975" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_cikli.xml" value="0.21" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_korteji.xml" value="0.22" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_literatyra.xml" value="0.18" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_massivi.xml" value="0.2" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_plagins.xml" value="0.22" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/activity_tips.xml" value="0.18" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/app_bar_main.xml" value="0.9471733086190918" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/layout/content_main.xml" value="0.18958333333333333" />
+        <entry key="..\:/SprawochnikPython/app/src/main/res/menu/nav_menu.xml" value="0.2693877551020408" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
